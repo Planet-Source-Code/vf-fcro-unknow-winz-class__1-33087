@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body>
+
+
+<p highlight=#FF0000 padding-left=120 padding-top=14 padding-bottom=14>  <font face="Times New Roman" size=16pt color=#FFFF00><b>Almost Unknow Windows Class 'Hiden by M$'!!! </b></font></p>  
+<p color=#3F4F7F margin-top=matched margin-left=150 padding=2><img image-mask="auto" src="ab.bmp" width="75" height="60"> </img>
+<font face=Verdana size=8pt color=#0044FF> 
+<p padding-left=0 > 
+Ha,ha that's very similar as HTML control...But little bit a different!!! No Tables! No Gif! BUT NO DOCUMENT!!!!(Only SetWindowText!!!!)    <br> </font>
+<font face=Verdana size=16pt color=#0011CC> 
+Enjoy!
+</p></font>
